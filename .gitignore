@@ -4,4 +4,5 @@ node_modules/
 server/**/*.js
 tests/**/*.js
 package-lock.json
+server/npm-debug.log
 npm-debug.log

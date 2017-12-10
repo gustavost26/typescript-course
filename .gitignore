@@ -1,8 +1,12 @@
 .idea/
-build/
-node_modules/
 server/**/*.js
 tests/**/*.js
+dist/
+node_modules
+.nyc_output
+coverage
+server/server.js
 package-lock.json
-server/npm-debug.log
-npm-debug.log
+script.txt
+.vscode
+client

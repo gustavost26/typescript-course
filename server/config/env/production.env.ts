@@ -1,7 +1,7 @@
 module.exports = {
-    env: 'development',
+    env: 'production',
     db: 'ts_api',
-    dialect: 'postgres',
+    dialect: 'gteles',
     username: 'gteles',
     password: 'pgroot',
     host: 'localhost',
